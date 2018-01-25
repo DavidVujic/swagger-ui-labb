@@ -1,0 +1,26 @@
+{
+  "name": "swagger-ui-labb",
+  "version": "1.0.0",
+  "description": "experimenting with the swagger ui library",
+  "main": "index.js",
+  "dependencies": {
+    "swagger-ui-dist": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidVujic/swagger-ui-labb.git"
+  },
+  "keywords": [
+    "swagger"
+  ],
+  "author": "David Vujic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidVujic/swagger-ui-labb/issues"
+  },
+  "homepage": "https://github.com/DavidVujic/swagger-ui-labb#readme"
+}
