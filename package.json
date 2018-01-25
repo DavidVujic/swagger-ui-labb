@@ -4,6 +4,7 @@
   "description": "experimenting with the swagger ui library",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.16.2",
     "swagger-ui-dist": "^3.9.2"
   },
   "devDependencies": {},
